@@ -557,7 +557,7 @@
 /* Responsive: Hide orb on smaller screens */
 @media (max-width: 768px) {
   .glowing-orb {
-    display: none;
+    display: flex;
   }
 }  /* === Projects Section === */
 
